@@ -5,3 +5,7 @@ body{
     justify-content: center;
     text-align: center;
 }
+
+nav{
+    background-color: aquamarine;
+}
